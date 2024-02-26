@@ -22,7 +22,7 @@ a4：一个最简的可以运行的节点，它创建一个空的torch.Tensor向
 ![44](https://github.com/erthorpabar/guide-to-write-comfyui-custom-node/assets/161300602/59673717-5a72-4af2-9105-b3fd5ce06ff8)
 
 
-a5：通用最简模板，可直接复制此节点并在此基础上进行节点的创作。
+a5：通用最简模板，可直接复制此节点并在此基础上进行创作。
 
 
 
